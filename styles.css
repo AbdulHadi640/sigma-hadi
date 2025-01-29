@@ -1,0 +1,33 @@
+body{
+    background-color:aqua;
+    font-size:20px;
+}
+  table,th,td{
+    border:1px solid black
+    /* border-collapse:collapse; */
+  }
+   img{
+    width:300px;
+    box-shadow: none;
+    background: none;
+    
+   }
+   
+  
+   ul{
+    list-style: square;
+    padding: flex;
+    gap: 20px;
+   }
+   p{
+    background-color: rgb(255, 0, 89);
+   }
+   a{
+    background-color: rgb(255, 145, 0);
+   }
+   #first div{
+    color: rgb(212, 127, 255);
+   }
+   .redbg{
+    background-color: rgb(255, 196, 245);
+   }
